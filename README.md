@@ -2,10 +2,27 @@
 
 This React frontend is designed to work with the Room Chat Socket server, allowing users to create chat rooms and communicate in real-time with other users.
 
+
 ## Stack
 
 - ReactJS (v18)
 - Material-UI library for the UI components
+
+## Screens
+
+The default screen permit to create or join some session
+
+![landing](./documentation/screens/default.png)
+
+Then a room selection modal open, you have to determine your pseudo / room to join or create
+
+![setup](./documentation/screens/room-setup.png)
+
+You can now discuss inside the same room of other people in live.
+
+![chat](./documentation/screens/chat-page.png)
+
+
 
 ## Usage
 
